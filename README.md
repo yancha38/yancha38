@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! Welcome to my GitHub profile 👋
+I like :tea: & :coffee:  
+Learner :books:
 <!--
 **yancha38/yancha38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
